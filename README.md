@@ -5,3 +5,9 @@ one dark pro for all JetBrains
 ![image](https://github.com/hq-zhonger/one-dark-pro/blob/main/theme1.PNG)
 ![image](https://github.com/hq-zhonger/one-dark-pro/blob/main/theme2.PNG)
 ![image](https://github.com/hq-zhonger/one-dark-pro/blob/main/theme3.PNG)
+
+最新的goland新ui效果
+
+![image](https://github.com/hq-zhonger/one-dark-pro/blob/main/theme4.PNG)
+![image](https://github.com/hq-zhonger/one-dark-pro/blob/main/theme5.PNG)
+![image](https://github.com/hq-zhonger/one-dark-pro/blob/main/theme6.PNG)
